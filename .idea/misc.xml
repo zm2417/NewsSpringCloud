@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/vultr-test" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/demo/pom.xml" />
+        <option value="$PROJECT_DIR$/zipkin-server/pom.xml" />
+        <option value="$PROJECT_DIR$/gatway-service-user/pom.xml" />
+        <option value="$PROJECT_DIR$/feign-service/pom.xml" />
+        <option value="$PROJECT_DIR$/service-login/pom.xml" />
+        <option value="$PROJECT_DIR$/service-user/pom.xml" />
+        <option value="$PROJECT_DIR$/gateway-service/pom.xml" />
+        <option value="$PROJECT_DIR$/service-content/pom.xml" />
+        <option value="$PROJECT_DIR$/service-comment/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/vultr-test/pom.xml" />
+        <option value="$PROJECT_DIR$/vultr-tsetjar/pom.xml" />
+      </list>
+    </option>
+  </component>
+</project>
